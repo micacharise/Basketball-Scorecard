@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.title {
+    color: #fff;
+    font-size: 40px;
+    justify-content: center;
+    margin: 0;
+    text-align: center;
+}
+
+#scorecard-number {
+    color: #F94F6D;
+    font-size: 90px;
+    background-color: #080001;
+    padding: 90px 110px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+
+.button {
+   color: #9AABD8;
+   background-color: #1B244A;
+   border: 3px solid #9AABD8;
+   border-radius: 5px; 
+}
